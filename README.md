@@ -5,6 +5,6 @@ Currently in a very uncomplete state.
 
 Contains a rewrite of Advance Tricks in TypeScript.
 
--   [AdvanceTricks-old.lua] is the origanal version of the mod.
--   [AdvanceTricks-raw.lua] is a conversion straght from lua to typescript.
--   [AdvanceTricks-mod.lua] has a few modifications on top of the origanal code.
+- [AdvanceTricks-old.lua](AdvanceTricks-old.lua) is the origanal version of the mod.
+- [AdvanceTricks-raw.lua](AdvanceTricks-raw.lua) is a conversion straght from lua to typescript.
+- [AdvanceTricks-mod.lua](AdvanceTricks-mod.lua) has a few modifications on top of the origanal code.
