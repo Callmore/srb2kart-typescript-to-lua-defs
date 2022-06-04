@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "lib": ["esnext"],
+        "moduleResolution": "node",
+        "types": ["typescript-to-lua/language-extensions"],
+        "strict": true
+    },
+    "tstl": {
+        "luaTarget": "5.3",
+        "buildMode": "default",
+        "noImplicitGlobalVariables": true,
+        "noImplicitSelf": true
+    }
+}
